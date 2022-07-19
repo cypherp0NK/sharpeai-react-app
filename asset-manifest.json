@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sharpeai-react-app/static/css/main.2c6f881a.css",
-    "main.js": "/sharpeai-react-app/static/js/main.2de3d456.js",
+    "main.js": "/sharpeai-react-app/static/js/main.221523f0.js",
     "static/js/787.b4b24ef7.chunk.js": "/sharpeai-react-app/static/js/787.b4b24ef7.chunk.js",
     "static/media/ethereum-logo.svg": "/sharpeai-react-app/static/media/ethereum-logo.299146b77414005b4d46c131113cd7ad.svg",
     "static/media/background-image.png": "/sharpeai-react-app/static/media/background-image.e77ee7ad0cc4c8549103.png",
@@ -28,6 +28,7 @@
     "static/media/book.svg": "/sharpeai-react-app/static/media/book.534e49e0a740e747aa6e04fd151289de.svg",
     "static/media/projected-apy.svg": "/sharpeai-react-app/static/media/projected-apy.67f30657b86f6019610d4eef2ce43ec0.svg",
     "static/media/total-value-locked.svg": "/sharpeai-react-app/static/media/total-value-locked.e1aa4a4dceee2a3fe7f03d3cd9fb1e0d.svg",
+    "index.html": "/sharpeai-react-app/index.html",
     "static/media/total-worth.svg": "/sharpeai-react-app/static/media/total-worth.96ed6408aa57f4068c86f008baaff92e.svg",
     "static/media/invention.svg": "/sharpeai-react-app/static/media/invention.1ac29c4c648cdf89527770f2078afec9.svg",
     "static/media/email.svg": "/sharpeai-react-app/static/media/email.acedfd0903a126635cfb33ab9de9849a.svg",
@@ -37,15 +38,14 @@
     "static/media/twitter.svg": "/sharpeai-react-app/static/media/twitter.0335dfff12dba2b4d169cab69d56124c.svg",
     "static/media/home.svg": "/sharpeai-react-app/static/media/home.15e0215463362490f427c792530c30b5.svg",
     "static/media/total-net-worth.svg": "/sharpeai-react-app/static/media/total-net-worth.6609fa4fead646e42bdd0f2aa84ae7b4.svg",
-    "index.html": "/sharpeai-react-app/index.html",
     "static/media/folder.svg": "/sharpeai-react-app/static/media/folder.f25ba855275c430df7267451ab77cf29.svg",
     "static/media/Green_dot.svg": "/sharpeai-react-app/static/media/Green_dot.3f5c9cd1c31f85f794f8ccc77e5143cb.svg",
     "main.2c6f881a.css.map": "/sharpeai-react-app/static/css/main.2c6f881a.css.map",
-    "main.2de3d456.js.map": "/sharpeai-react-app/static/js/main.2de3d456.js.map",
+    "main.221523f0.js.map": "/sharpeai-react-app/static/js/main.221523f0.js.map",
     "787.b4b24ef7.chunk.js.map": "/sharpeai-react-app/static/js/787.b4b24ef7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c6f881a.css",
-    "static/js/main.2de3d456.js"
+    "static/js/main.221523f0.js"
   ]
 }
